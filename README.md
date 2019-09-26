@@ -1,2 +1,0 @@
-# VuejsProject
-Created with CodeSandbox
